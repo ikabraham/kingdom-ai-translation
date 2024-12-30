@@ -1,4 +1,4 @@
-# kingdom-ai-translation
+# Kingdom - AI Translation
 
 # Character Processing Workflow
 
